@@ -1,7 +1,7 @@
 cheerBot
 ========
 
-The cheeriest bots of all. Built during the NodeBots event at JSFest 2014, Hosted at Heroku, on March 8th, 2014.
+The cheeriest bot of em' all. Built during the NodeBots event at JSFest 2014, Hosted at Heroku, on March 8th, 2014.
 
 <img src="https://raw.github.com/mikaelhm/cheerBot/master/photos/cheerBot-high.png" height="250px" />  <img src="https://raw.github.com/mikaelhm/cheerBot/master/photos/cheerBot-low.png" height="250px" /> 
 
@@ -23,25 +23,28 @@ The cheering arms design is based on this neat [hack][4].
 
 Software
 --------
-The happiness inside cheerBot is build using johnny-five for interaction wiht the hardware and keypress for controlling via the keyboard. 
+The happiness inside cheerBot is build with [node.js][5] using [johnny-five][6] for interaction with the hardware and [keypress][7] for controlling via the keyboard. 
 
-Media Coverage
+In action videos
 --------------
 
-- [Official Trailer][5]
-- [Short in-battle footage against johnny-six][6]
+- [Official Trailer][8]
+- [Short in-battle footage against johnny-six][9]
 
 Acknowledgement
 --------------
-A special thanks to [h0ke][7], [rockBot][8] and [dshaw][9] for good support during the day.
+A special thanks to [h0ke][10], [rockBot][11] and [dshaw][12] for good support during the day.
 
 
   [1]: https://github.com/tupergud
   [2]: https://github.com/mikaelhm
   [3]: https://github.com/makenai/sumobot-jr
   [4]: http://hackaday.com/2014/02/13/a-clock-that-plots-time/
-  [5]: http://youtu.be/VUW3Ak9j9-E
-  [6]: http://www.mobypicture.com/user/NodeBotsSF/view/16651029
-  [7]: https://github.com/h0ke
-  [8]: https://github.com/rockbot
-  [9]: https://github.com/dshaw
+  [5]: http://nodejs.org/
+  [6]: https://github.com/rwaldron/johnny-five
+  [7]: https://github.com/TooTallNate/keypress
+  [8]: http://youtu.be/VUW3Ak9j9-E
+  [9]: http://www.mobypicture.com/user/NodeBotsSF/view/16651029
+  [10]: https://github.com/h0ke
+  [11]: https://github.com/rockbot
+  [12]: https://github.com/dshaw
