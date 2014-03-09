@@ -1,0 +1,28 @@
+{
+  "name": "cheerBot",
+  "version": "0.0.1",
+  "description": "The cheeriest bot of em' all. Built during the NodeBots event at JSFest 2014, Hosted at Heroku, on March 8th, 2014.",
+  "main": "cheerBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikaelhm/cheerBot.git"
+  },
+  "keywords": [
+    "nodeBots",
+    "cheerBot",
+    "johnny-five",
+    "nodeBotsSF"
+  ],
+  "author": "Mikael H. Møller and Tobias Christensen",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/mikaelhm/cheerBot/issues"
+  },
+  "dependencies": {
+    "johnny-five": "~0.7.28",
+    "keypress": "~0.2.1"
+  }
+}
