@@ -7,7 +7,7 @@ The cheeriest bot of em' all. Built during the NodeBots event at JSFest 2014, Ho
 
 **cheerBot team:**
 
- - [Tobias Christen][1]
+ - [Tobias Christensen][1]
  - [Mikael H. Møller][2]
 
 Hardware
